@@ -40,10 +40,9 @@ O sistema está dividido em **cadastros, relatórios e dashboards**, oferecendo 
 
 ## 📷 Exemplos Visuais
 
-![Dashboard Financeiro](![DashboardFinanceiroAnual](https://github.com/user-attachments/assets/eb5b6fcd-fa15-45a9-ab83-f14a08747e90)
- )
-![Relatórios de Fluxo de Caixa]( ![RelatoriosFluxoDeCaixa](https://github.com/user-attachments/assets/5a51b1f9-3e4a-4627-9589-494f56d8ac37)
-)
+![DashboardFinanceiroAnual](https://github.com/user-attachments/assets/eb5b6fcd-fa15-45a9-ab83-f14a08747e90)
+
+![RelatoriosFluxoDeCaixa](https://github.com/user-attachments/assets/5a51b1f9-3e4a-4627-9589-494f56d8ac37)
 
 ## 👨‍💻 Autor
 
